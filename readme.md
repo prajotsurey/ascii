@@ -11,9 +11,6 @@ This is a very naive implementaion and is not very optimized.
 * [Usage](#user-content-usage)
 
 ## About
-This project is an implementation of the following tutorial:
-
-https://youtu.be/v_raWlX7tZY
 
 Apart from outputting a text file, it also outputs a image.
 
@@ -45,4 +42,4 @@ pip install -r requirements.txt
 ```bash
 python script.py
 ```
-4. The output image and text file is saved in the 'output' folder.
+4. The output image is saved in the 'output' folder.
