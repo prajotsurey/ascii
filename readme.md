@@ -1,3 +1,5 @@
+![image drawn with ASCII characters](output/asciiImage.png)
+
 # Image-to-ASCII converter (WIP)
 
 This script converts an image to a txt file cotaining ascii characters and outputs an image with those ascii characters.
